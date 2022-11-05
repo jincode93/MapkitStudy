@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "네이버",
+        "imageUrl": "https://blog.kakaocdn.net/dn/qUJIf/btrJ1IA4h3j/m8nV2av3s7idA28kXKkGyk/img.png",
+        "siteUrl": "https://recruit.navercorp.com/",
+        "lat": 37.359543,
+        "long": 127.105224
+    },
+    {
+        "id": "2",
+        "name": "카카오",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kakao_CI_yellow.svg/2560px-Kakao_CI_yellow.svg.png",
+        "siteUrl": "https://careers.kakao.com/index",
+        "lat": 37.402038,
+        "long": 127.108667
+    },
+    {
+        "id": "3",
+        "name": "라인",
+        "imageUrl": "https://img.etoday.co.kr/pto_db/2021/02/600/20210222180408_1585054_1121_445.png",
+        "siteUrl": "https://careers.linecorp.com/ko/",
+        "lat": 37.385012,
+        "long": 127.123388
+    },
+    {
+        "id": "4",
+        "name": "쿠팡",
+        "imageUrl": "https://blog.kakaocdn.net/dn/6ui8u/btqDtzRrCzg/ZM8q87L5frjEl0za6UnIk1/img.jpg",
+        "siteUrl": "https://www.coupang.jobs/kr/",
+        "lat": 37.481340,
+        "long": 127.124673
+    },
+    {
+        "id": "5",
+        "name": "배달의민족",
+        "imageUrl": "https://platum.kr/wp-content/uploads/2020/09/%EC%9D%B4%EB%AF%B8%EC%A7%805-%EA%B5%AD%EB%82%B4-%EB%8C%80%ED%91%9C-%EB%B0%B0%EB%8B%AC%EC%95%B1-%E2%80%98%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1%E2%80%99-%EB%A1%9C%EA%B3%A0.jpg",
+        "siteUrl": "https://career.woowahan.com/?utm_source=google&utm_medium=cpc&utm_campaign=2022_recruiting_sa&utm_content=googlesa&gclid=Cj0KCQjwk5ibBhDqARIsACzmgLTV-Rl7C3-8Z2nGKOMFvfjmXPYJuYKXghDnzr0Ku7JO8aBVoGMm9iMaAqz3EALw_wcB",
+        "lat": 35.856529,
+        "long": 128.590273
+    },
+    {
+        "id": "6",
+        "name": "당근마켓",
+        "imageUrl": "https://dnvefa72aowie.cloudfront.net/karrot-cs/etc/202007/0cf1d10235c37b2635c02719125da37cc1bd632518198b1e1da7f5a364156540.png",
+        "siteUrl": "https://team.daangn.com/jobs/",
+        "lat": 37.503776,
+        "long": 127.024063
+    },
+    {
+        "id": "7",
+        "name": "토스",
+        "imageUrl": "https://wp-blog.toss.im/wp-content/uploads/2022/09/logo-toss-blue-1024x576.png",
+        "siteUrl": "https://toss.im/career/jobs",
+        "lat": 37.499744,
+        "long": 127.034954
+    }
+]
